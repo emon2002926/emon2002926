@@ -1,7 +1,5 @@
 <h3 align="center">A passionate android developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon2002926" alt="emon2002926" /></a> </p>
-
 - 🔭 I’m currently working on [Bcs Pro](https://github.com/emon2002926/Quize_App-MVVM-.git)
 
 - 🌱 I’m currently learning **Flutter**
