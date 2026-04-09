@@ -39,7 +39,6 @@ Built with Clean Architecture + BLoC
 🔹 Sports Prediction App
 
 🔗 App Store: https://apps.apple.com/us/app/alfabets24/id6757793164
-
 🔗 App Store (Bolt Tours): https://apps.apple.com/us/app/bolt-tours/id6755755312
 
 Live football prediction & analytics platform
