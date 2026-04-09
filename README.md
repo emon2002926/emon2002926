@@ -1,21 +1,80 @@
-<h3 align="center">Hi I am Emon</h3>
+<h2 align="center">Hi 👋, I'm Iman Emon</h2>
+<h4 align="center">Flutter Developer | Building Scalable & High-Performance Mobile Apps</h4>
 
-- 🔭 I’m currently working on [Bcs Pro](https://github.com/emon2002926/Quize_App-MVVM-.git)
+---
 
-- 🌱 I’m currently learning **Flutter**
+## 🚀 About Me
+- 💼 Flutter Developer with **3+ years of experience**
+- 📱 Built and maintained **production apps (Android & iOS)**
+- 🧠 Strong in **Clean Architecture, BLoC, and scalable app design**
+- 🔥 Experience with **Firebase, REST APIs, Geo-location & real-time features**
+- ⚡ Love building **high-performance, real-world applications**
 
-- 📫 How to reach me **imanemon79605@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/md-emon-a6a01a160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-emon-a6a01a160" height="30" width="40" /></a>
+## 📱 Featured Projects
+
+### 🔹 BCS Exam Preparation App
+- Offline-first quiz platform  
+- ✅ Detailed **exam & scoring system**  
+- 🧠 Performance tracking & bookmarking  
+- ⚙️ Built with **MVVM + Room DB + Hilt**  
+
+🔗 GitHub: https://github.com/emon2002926/Quize_App-MVVM-.git  
+📲 Play Store: https://play.google.com/store/apps/details?id=YOUR_APP_ID  
+🍎 App Store: https://apps.apple.com/app/idYOUR_APP_ID  
+
+---
+
+🔹 Bolt Scooters – City Exploration App
+🔗 Google Play: https://play.google.com/store/apps/details?id=com.boltscootersllc.nestro
+
+Full-featured geo-location based mobile app
+GPS navigation (Google Maps), geofencing, real-time chat
+Google OAuth authentication
+Built with Clean Architecture + BLoC
+
+---
+
+🔹 Sports Prediction App
+
+🔗 App Store: https://apps.apple.com/us/app/alfabets24/id6757793164
+
+🔗 App Store (Bolt Tours): https://apps.apple.com/us/app/bolt-tours/id6755755312
+
+Live football prediction & analytics platform
+Real-time match tracking & API-driven data
+Implemented robust API handling with fallback logic
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Mobile Development
+Flutter, Android (Kotlin, Java)
+
+### 🧠 Architecture & State Management
+BLoC, Clean Architecture, MVVM, GetX
+
+### 🔗 Backend & Services
+Firebase (Auth, Firestore, FCM), REST APIs
+
+### 📍 Advanced Features
+Google Maps, Geo-location, Push Notifications, Payment Integration
+
+### 🧰 Tools
+Git, GitHub, Postman
+
+---
+
+## 📫 Connect With Me
+- 📧 imanemon796055@gmail.com  
+- 🔗 https://linkedin.com/in/iman-emon-a6a01a160  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emon2002926&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon2002926&layout=compact" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon2002926&show_icons=true&locale=en&layout=compact" alt="emon2002926" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon2002926&show_icons=true&locale=en" alt="emon2002926" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon2002926&" alt="emon2002926" /></p>
