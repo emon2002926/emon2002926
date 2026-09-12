@@ -20,8 +20,8 @@
 - 💳 Integrated secure authentication, In-App Purchases, and Firebase Cloud Messaging
 - ⚙️ Built with **Flutter, Clean Architecture, BLoC, and Riverpod**
 
-🔗 Play Store: [Insert Your Play Store Link Here]
-🍎 App Store: [Insert Your App Store Link Here, if applicable]
+🔗 Play Store: https://play.google.com/store/apps/details?id=com.kaloai.app&pcampaignid=web_share
+🍎 App Store: https://apps.apple.com/us/app/kalo-ai-asian-calorie-tracker/id6763285874
 
 ---
 
