@@ -32,8 +32,8 @@
 - 🗄️ Backend: Engineered robust services using **Django** for user profiles and performance tracking
 
 🔗 GitHub: https://github.com/emon2002926/Quize_App-MVVM-.git  
-📲 Play Store: https://play.google.com/store/apps/details?id=YOUR_APP_ID  
-🍎 App Store: https://apps.apple.com/app/idYOUR_APP_ID  
+📲 Play Store: https://play.google.com/store/apps/details?id=com.gdalamin.bcs_pro&pcampaignid=web_share  
+
 
 ---
 
