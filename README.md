@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Iman Emon</h2>
-<h4 align="center">Software Developer | Flutter & Django (Backend)</h4>
+<h4 align="center">Flutter Developer | Full-Stack (Flutter & Django)</h4>
 
 ---
 
